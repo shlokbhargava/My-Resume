@@ -284,6 +284,10 @@ section:nth-child(2n + 1){
 	font-size: large;
 }
 
+.timeline-box h5 {
+	color: rgb(0, 0, 0);
+}
+
 .timeline-box:nth-child(2n) {
     left: 53%;
 }
