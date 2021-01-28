@@ -237,7 +237,7 @@ section:nth-child(2n + 1){
 .skill-progress{
 	background-color: lightgray;
 	border-radius: 0.8rem;
-	width: 120px;
+	width: 150px;
 	height: 30px;
 	margin: 20px 30px 20px;
 	flex-wrap: wrap;
