@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "shlok bhargava",
+  "license": "ISC",
+  "homepage": "https://shlokbhargava.github.io/My-Resume",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
