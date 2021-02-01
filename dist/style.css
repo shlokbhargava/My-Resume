@@ -242,13 +242,13 @@ section:nth-child(2n + 1){
 	margin: 20px 30px 20px;
 	flex-wrap: wrap;
 	box-shadow: inset;
+
 }
 
 .skill-name{
-	color: rgb(34, 25, 25);
+	color: black;
 	text-align: center;
-	width: auto;
-	font-size: 1.2rem;
+	font-size: 1rem;
 	display: inline-block;
 	margin-top: 0.3rem;
 }
